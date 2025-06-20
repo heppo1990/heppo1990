@@ -1,19 +1,9 @@
-<Configuration ID="478c3ee0-f46c-4df4-95e7-82c626a3af74">
-  <Add OfficeClientEdition="64" Channel="Current">
-    <Product ID="O365BusinessRetail">
+<Configuration ID="3fbc0590-9670-408e-990e-58d973c9403f">
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
+    <Product ID=HomeBusiness2024Retail>
       <Language ID="de-de" />
-      <ExcludeApp ID="Access" />
-      <ExcludeApp ID="Groove" />
-      <ExcludeApp ID="Lync" />
-      <ExcludeApp ID="OneDrive" />
-      <ExcludeApp ID="OutlookForWindows" />
-      <ExcludeApp ID="Publisher" />
     </Product>
   </Add>
-  <Property Name="SharedComputerLicensing" Value="1" />
-  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
-  <Property Name="DeviceBasedLicensing" Value="0" />
-  <Property Name="SCLCacheOverride" Value="0" />
   <Updates Enabled="TRUE" />
   <RemoveMSI />
   <AppSettings>
