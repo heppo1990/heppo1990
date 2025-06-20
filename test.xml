@@ -1,6 +1,6 @@
 <Configuration ID="3fbc0590-9670-408e-990e-58d973c9403f">
   <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
-    <Product ID=HomeBusiness2024Retail>
+    <Product ID=HomeBusiness2019Retail>
       <Language ID="de-de" />
     </Product>
   </Add>
